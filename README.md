@@ -1,6 +1,6 @@
 KUMUSTA!
 ---
-<img data-importer="snake" src="https://cdn.jsdelivr.net/gh/yosoykyle/yosoykyle@snake-output/snake.svg?v=1" alt="Snake animation" />
+<img data-importer="snake" src="https://cdn.jsdelivr.net/gh/yosoykyle/yosoykyle@snake-output/snake.svg?v=2" alt="Snake animation" />
 <table>
   <tr>
     <td width="50%" valign="top">
