@@ -1,6 +1,6 @@
 KUMUSTA!
 ---
-
+<img data-importer="snake" src="https://raw.githubusercontent.com/yosoykyle/yosoykyle/snake-output/snake.svg" alt="Snake animation" />
 <table>
   <tr>
     <td width="50%" valign="top">
